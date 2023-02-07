@@ -43,7 +43,7 @@ class AuthUserService{     // Processo de Login do Usuário
             id: user.id,
             name: user.name,
             email: user.email,
-            token: token
+            token: token,
         }
     }
 }
