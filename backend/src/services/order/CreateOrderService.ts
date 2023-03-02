@@ -11,7 +11,7 @@ class CreateOrderService{
             data:{
                 table: table,
                 name: name,
-            }
+            }  
         })
         
         return order;
